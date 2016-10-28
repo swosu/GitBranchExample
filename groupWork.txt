@@ -9,6 +9,7 @@ part 2
 This is Roshan.
 I take in the date as a variable.
 I then look up what the zodiac sign.
+Steve eats pizza with turtles.
 I store the zodiac sign as a different variable.
 
 part 3
