@@ -12,3 +12,7 @@ I then look up what the zodiac sign.
 I store the zodiac sign as a different variable.
 
 part 3
+This is Conner.
+I am going to take the resulting zodiac variable
+and print it off.
+That is the end of the program.
