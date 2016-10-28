@@ -5,3 +5,7 @@ This is part 1.
 part 2
 
 part 3
+This is Conner.
+I am going to take the resulting zodiac variable
+and print it off.
+That is the end of the program.
