@@ -6,5 +6,10 @@ I am using the scanner function.
 I use it to pull in the inputs from the user.
 
 part 2
+This is Jessica. 
+I am going to cover for Roshan.
+I read in a variable from the Scanner.
+I then calculate the result.
+The result is saved as a variable.
 
 part 3
