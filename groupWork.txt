@@ -1,6 +1,9 @@
 This is our group project.
 
 This is part 1.
+This is Jessica.
+I am using the scanner function.
+I use it to pull in the inputs from the user.
 
 part 2
 
